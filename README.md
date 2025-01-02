@@ -1,6 +1,10 @@
 # BlazingBlog - A fullstack Blog Web App using Blazor Server 
 > BlazingBlog - A fullstack blog web app using Blazor Server, EF Core and SQL Server- .Net 7
 
+https://github.com/gtechsltn/BlazingBlog
+
+https://github.com/gtechsltn/BlazingChat
+
 ## Screenshots
 
 #### Home Page
